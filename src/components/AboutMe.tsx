@@ -407,7 +407,7 @@ const AboutMe = () => {
                     <ContactButton
                       icon={FaWhatsapp}
                       label="WhatsApp"
-                      href="https://wa.me/+919930272828"
+                      href="https://wa.me/+919594348344"
                       color="#10b981"
                       isWhatsApp
                     />
