@@ -21,7 +21,7 @@ const contactDetails = {
   company: process.env.NEXT_PUBLIC_COMPANY_NAME || 'Oazan Technologies',
   email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'info@oazan.com	',
   location: process.env.NEXT_PUBLIC_CONTACT_LOCATION || 'Maharashtra, India',
-  phone: process.env.NEXT_PUBLIC_CONTACT_PHONE || '+91 8108550617',
+  phone: process.env.NEXT_PUBLIC_CONTACT_PHONE || '+91 9594348344',
   instagram: process.env.NEXT_PUBLIC_CONTACT_INSTAGRAM || 'https://instagram.com/ozantech',
   // linkedin: process.env.NEXT_PUBLIC_CONTACT_LINKEDIN || 'https://linkedin.com/company/ozantech',
   // github: process.env.NEXT_PUBLIC_CONTACT_GITHUB || 'https://github.com/ozantech',
