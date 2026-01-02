@@ -22,9 +22,9 @@ const contactDetails = {
   email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'info@oazan.com	',
   location: process.env.NEXT_PUBLIC_CONTACT_LOCATION || 'Maharashtra, India',
   phone: process.env.NEXT_PUBLIC_CONTACT_PHONE || '+91 9594348344',
-  instagram: process.env.NEXT_PUBLIC_CONTACT_INSTAGRAM || 'https://instagram.com/ozantech',
-  // linkedin: process.env.NEXT_PUBLIC_CONTACT_LINKEDIN || 'https://linkedin.com/company/ozantech',
-  // github: process.env.NEXT_PUBLIC_CONTACT_GITHUB || 'https://github.com/ozantech',
+  instagram: process.env.NEXT_PUBLIC_CONTACT_INSTAGRAM || 'https://instagram.com/theoazan',
+  // linkedin: process.env.NEXT_PUBLIC_CONTACT_LINKEDIN || 'https://linkedin.com/company/theoazan',
+  // github: process.env.NEXT_PUBLIC_CONTACT_GITHUB || 'https://github.com/theoazan',
   whatsapp: process.env.NEXT_PUBLIC_CONTACT_WHATSAPP || '+91 9594348344',
 };
 
