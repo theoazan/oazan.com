@@ -346,7 +346,7 @@ const AboutMe = () => {
                     <div className="relative">
                       <div className="relative w-24 h-24 rounded-2xl overflow-hidden shadow-2xl group-hover:shadow-3xl transition-all duration-500">
                         <Image
-                          src="/Images/kalpesh.png"
+                          src="/Images/kalpeshhh.png"
                           alt="Virendra Patil - CEO & Founder of Oazan Technologies"
                           width={80}
                           height={80}
@@ -378,7 +378,7 @@ const AboutMe = () => {
 
                     <div className="flex-1">
                       <h3 className="text-2xl font-bold bg-gradient-to-r from-amber-600 to-orange-700 bg-clip-text text-transparent mb-1">
-                        Kalpesh Patil
+                        Prashant Patil
                       </h3>
                       <p className="text-lg font-semibold text-gray-700 mb-2">Tech Support Head</p>
                       <p className="text-gray-600 text-sm leading-relaxed">
@@ -401,7 +401,7 @@ const AboutMe = () => {
                     <ContactButton
                       icon={FiMail}
                       label="Email"
-                      href="mailto:kalpesh.patil@oazan.com"
+                      href="mailto:info@oazan.com"
                       color="#f59e0b"
                     />
                     <ContactButton
