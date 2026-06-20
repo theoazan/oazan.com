@@ -346,7 +346,7 @@ const AboutMe = () => {
                     <div className="relative">
                       <div className="relative w-24 h-24 rounded-2xl overflow-hidden shadow-2xl group-hover:shadow-3xl transition-all duration-500">
                         <Image
-                          src="/Images/Prash.jpeg"
+                          src="/Images/prashant_profile.jpg"
                           alt="Virendra Patil - CEO & Founder of Oazan Technologies"
                           width={80}
                           height={80}
